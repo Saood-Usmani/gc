@@ -48,7 +48,7 @@ body
 }
 .middle-container
 {
-    background-color: #4174AA;
+    background-color: #2f2fa2;
     margin-top: 5%;
 }
 hr
@@ -70,7 +70,8 @@ p
 {
     margin: auto;
     line-height: 120%;
-    color: #ff5100;
+    color: #00e1ff;
+    font-size: 1.5rem;
 }
 h2
 {
@@ -80,7 +81,7 @@ h2
 h3
 {
     color: #66BFBF;
-    font-size: 1.5rem;
+    font-size: 2.5rem;
 }
 .img1
 {
